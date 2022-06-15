@@ -14,8 +14,8 @@ const styles = StyleSheet.create({
     resizeMode: 'contain',
     alignSelf: 'flex-end',
     justifyContent: 'flex-start',
-    marginTop: '30%',
-    marginRight: '15%',
+    marginTop: '100%',
+    marginRight: '10%',
 },
 
   infoText: {
